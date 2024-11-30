@@ -103,7 +103,7 @@ The following test cases are implemented:
   [Click Here To see the output video of Smoke Suite Automation Script](https://drive.google.com/file/d/1wThJFPkB124LmyltqXpbiet5bNeOQOEv/view?usp=drive_link)  
 - **Report**:  
   ![Image 1](https://github.com/user-attachments/assets/600eb028-4abd-44be-a5ee-96e41878d73f)  
-  ![Image 2](https://github.com/user-attachments/assets/f3a29654-9618-4c1d-a777-8c833a3419da)
+  ![Image 2](https://github.com/user-attachments/assets/30dc1710-3368-4e01-a299-a98c19542e31)
 
 ---
 
@@ -112,7 +112,8 @@ The following test cases are implemented:
   [Click Here To see the output video of Regression Suite Automation Script](https://drive.google.com/file/d/1nu2TdQY3TI2FajypX5sNeJvG1zuvp7z6/view?usp=drive_link)  
 - **Report**:  
   ![Image 1](https://github.com/user-attachments/assets/f2de1c31-73df-4fd0-8851-117583e2642c)
-  ![Image 2](https://github.com/user-attachments/assets/ce7e0f1e-10d5-417f-ad6c-82ad43833453)  
+  ![Image 2](https://github.com/user-attachments/assets/4e9863f8-79f2-4b3e-ae43-bf4a5a5f0c2c)
+
 
 ---
 
